@@ -1,0 +1,27 @@
+body{
+    background: linear-gradient(90deg, #4b6cb7 0%, #182848 100%);
+}
+.d-select option{
+    color: black;
+    font-weight: 700;
+}
+
+form{
+    box-shadow: 10px 10px 40px;
+    padding: 20px;
+    width: 80%;
+    /* margin: 0 auto; */
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+span{
+    color: white;
+}
+.d-short{
+
+}
+.d-option{
+
+}
